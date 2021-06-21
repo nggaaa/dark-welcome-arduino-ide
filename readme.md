@@ -1,4 +1,4 @@
-# How To Change Welcome Screen To Dark
+# How Change Arduino Welcome Screen To Dark
 
 If you use a dark theme, it will be less if the welcome screen and about are still the default. therefore I made this so that the welcome screen and about become dark.
 
@@ -22,3 +22,9 @@ And if there is a notification administrator then click continue.<br><br>
 
 #### If you want to change it to default, I have provided a backup file in the [default](/default) folder
 And do like the steps above.
+
+If you want to customize welcome screen or about in Arduino IDE you can using photo editor app
+ex. Photoshop
+
+Ty 4 Reading
+Please Fork this repository :)
