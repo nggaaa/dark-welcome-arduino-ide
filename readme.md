@@ -16,7 +16,9 @@ Example: ``` C:\Program Files (x86)\Arduino\lib ``` <br><br>
 And if there is a notification administrator then click continue.<br><br>
 <img src="https://drive.google.com/uc?export=view&id=1XJgDbtZdgPgEZst93VepNoHGd-dpayei" alt="" witdh=90><br><br><br>
 - If you have opened the Arduino IDE before copying / cutting the file, refresh the Arduino Idea by reopening the application.
-- And see the changes
+- And see the changes<br>
+<img src="https://drive.google.com/uc?export=view&id=17vE1Kqh99nnpe_7ZD6O3nZfK3jF3wO7y" alt="" witdh=90><br><br>
+<img src="https://drive.google.com/uc?export=view&id=1MgManWOgOOEPFHvNdr62bIMQ-0RO4y84" alt="" witdh=90><br><br>
 
 ### If you want to change it to default, I have provided a backup file in the default folder
 And do like the steps above.
