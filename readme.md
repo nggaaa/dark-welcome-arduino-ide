@@ -6,12 +6,15 @@ If you use a dark theme, it will be less if the welcome screen and about are sti
 I use windows as an example in this tutorial. for other os can adjust it.
 
 - Download all image from [dark](/dark) folder
-[](step-image/1.jpg)
 - Copy or cut all image to Arduino lib folder <br>
-Example: ``` C:\Program Files (x86)\Arduino\lib ``` <br>
-[](step-image/2.jpg)
-- If there is a notification replace file destination then click replace file destination.
-[](step-image/3.jpg)
+<img src="https://drive.google.com/uc?export=view&id=1ZZi7qqOvIDrzeE9UbF_JDat00jR6qAfn" alt="" witdh=90><br><br>
+- Paste to Arduino lib folder<br>
+Example: ``` C:\Program Files (x86)\Arduino\lib ``` <br><br>
+<img src="https://drive.google.com/uc?export=view&id=155s-yJTsLS7i1lznNYXvuM6wColrxUx7" alt="" witdh=90><br><br><br>
+- If there is a notification replace file destination then click replace file destination.<br><br>
+<img src="https://drive.google.com/uc?export=view&id=1Sk3GsIu3fqGwd1m-pfE8E07j0gf0AiYp" alt="" witdh=90><br><br><br>
+And if there is a notification administrator then click continue.<br><br>
+<img src="https://drive.google.com/uc?export=view&id=1XJgDbtZdgPgEZst93VepNoHGd-dpayei" alt="" witdh=90><br><br><br>
 - If you have opened the Arduino IDE before copying / cutting the file, refresh the Arduino Idea by reopening the application.
 - And see the changes
 
