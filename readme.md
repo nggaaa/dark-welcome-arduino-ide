@@ -26,5 +26,5 @@ And do like the steps above.
 If you want to customize welcome screen or about in Arduino IDE you can using photo editor app
 ex. Photoshop
 
-Ty 4 Reading
+Ty 4 Reading<br>
 Please Fork this repository :)
