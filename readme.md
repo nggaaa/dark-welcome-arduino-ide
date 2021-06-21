@@ -6,7 +6,7 @@ If you use a dark theme, it will be less if the welcome screen and about are sti
 I use windows as an example in this tutorial. for other os can adjust it.
 
 - Download all image from [dark](/dark) folder
-- Copy or cut all image to Arduino lib folder <br>
+- Copy or cut all image<br><br>
 <img src="https://drive.google.com/uc?export=view&id=1ZZi7qqOvIDrzeE9UbF_JDat00jR6qAfn" alt="" witdh=90><br><br>
 - Paste to Arduino lib folder<br>
 Example: ``` C:\Program Files (x86)\Arduino\lib ``` <br><br>
