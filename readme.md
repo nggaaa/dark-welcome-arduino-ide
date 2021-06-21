@@ -7,8 +7,8 @@ I use windows as an example in this tutorial. for other os can adjust it.
 
 - Download all image from [dark](/dark) folder
 [](step-image/1.jpg)
-- Copy or cut all image to Arduino instalation folder <br>
-Example: ``` C:\Program Files (x86)\Arduino\ ``` <br>
+- Copy or cut all image to Arduino lib folder <br>
+Example: ``` C:\Program Files (x86)\Arduino\lib ``` <br>
 [](step-image/2.jpg)
 - If there is a notification replace file destination then click replace file destination.
 [](step-image/3.jpg)
