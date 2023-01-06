@@ -1,4 +1,4 @@
-# How Change Arduino Welcome Screen To Dark
+# How Change Arduino 1.* Welcome Screen To Dark
 
 If you use a dark theme, it will be less if the welcome screen and about are still the default. therefore I made this so that the welcome screen and about become dark.
 
